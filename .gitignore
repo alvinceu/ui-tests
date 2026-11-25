@@ -1,0 +1,22 @@
+# Зависимости
+node_modules/
+
+# Результаты тестов и отчёты Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Отчёты о покрытии (если используется)
+/coverage/
+/tests/coverage-report/
+
+# Артефакты отладки и трассировки
+.trace
+playwright.env
+
+# Локальные файлы окружения
+.env
+.env.local
+
+!playwright-report/index.html
