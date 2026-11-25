@@ -1,0 +1,34 @@
+﻿# Default ignored files
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.
+/codeStyles/
+/.gitignore
+/encodings.xml
+/material_theme_project_new.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/workspace.xml
+/.
+/codeStyles/
+/.gitignore
+/encodings.xml
+/material_theme_project_new.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/workspace.xml
